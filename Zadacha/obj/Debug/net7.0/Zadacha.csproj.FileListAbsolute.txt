@@ -1,0 +1,15 @@
+D:\учеба\ItogovayaBlok1\Zadacha\bin\Debug\net7.0\Zadacha.exe
+D:\учеба\ItogovayaBlok1\Zadacha\bin\Debug\net7.0\Zadacha.deps.json
+D:\учеба\ItogovayaBlok1\Zadacha\bin\Debug\net7.0\Zadacha.runtimeconfig.json
+D:\учеба\ItogovayaBlok1\Zadacha\bin\Debug\net7.0\Zadacha.dll
+D:\учеба\ItogovayaBlok1\Zadacha\bin\Debug\net7.0\Zadacha.pdb
+D:\учеба\ItogovayaBlok1\Zadacha\obj\Debug\net7.0\Zadacha.csproj.AssemblyReference.cache
+D:\учеба\ItogovayaBlok1\Zadacha\obj\Debug\net7.0\Zadacha.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\ItogovayaBlok1\Zadacha\obj\Debug\net7.0\Zadacha.AssemblyInfoInputs.cache
+D:\учеба\ItogovayaBlok1\Zadacha\obj\Debug\net7.0\Zadacha.AssemblyInfo.cs
+D:\учеба\ItogovayaBlok1\Zadacha\obj\Debug\net7.0\Zadacha.csproj.CoreCompileInputs.cache
+D:\учеба\ItogovayaBlok1\Zadacha\obj\Debug\net7.0\Zadacha.dll
+D:\учеба\ItogovayaBlok1\Zadacha\obj\Debug\net7.0\refint\Zadacha.dll
+D:\учеба\ItogovayaBlok1\Zadacha\obj\Debug\net7.0\Zadacha.pdb
+D:\учеба\ItogovayaBlok1\Zadacha\obj\Debug\net7.0\Zadacha.genruntimeconfig.cache
+D:\учеба\ItogovayaBlok1\Zadacha\obj\Debug\net7.0\ref\Zadacha.dll
